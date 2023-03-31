@@ -1,0 +1,14 @@
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 11.6.6 (20G624)
+      Kernel Version: Darwin 20.6.0
+      Boot Volume: apple
+      Boot Mode: Normal
+      Computer Name: Nishant’s MacBook Air
+      User Name: Nishant kumar (nishantkumar)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 219 days 19:25
+

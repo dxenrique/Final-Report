@@ -1,0 +1,8 @@
+Android File Transfer.app
+Arduino IDE.app
+Google Chrome.app
+PyCharm CE.app
+Safari.app
+Utilities
+VLC.app
+iStat Server.app

@@ -1,0 +1,20 @@
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir7,2
+      Processor Name: Dual-Core Intel Core i5
+      Processor Speed: 1.8 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 3 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 8 GB
+      System Firmware Version: 430.120.6.0.0
+      SMC Version (system): 2.27f2
+      Serial Number (system): FVFD9EZ1J1WK
+      Hardware UUID: E852BE8D-2172-54E5-B996-A11F3DA29C5F
+      Provisioning UDID: E852BE8D-2172-54E5-B996-A11F3DA29C5F
+
